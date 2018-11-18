@@ -50,6 +50,10 @@
 		22C431341DF89DFE0017CAEA /* BRCoderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C431331DF89DFE0017CAEA /* BRCoderTests.swift */; };
 		22C431361DF8A6DF0017CAEA /* BRAPIClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C431351DF8A6DF0017CAEA /* BRAPIClientTests.swift */; };
 		22E773041EE7813000397E0E /* Bonjour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E773031EE7813000397E0E /* Bonjour.swift */; };
+		5AEDB33E21A1EFE8006A8FE9 /* Sponge.c in Sources */ = {isa = PBXBuildFile; fileRef = 5AEDB33921A1EFE6006A8FE9 /* Sponge.c */; };
+		5AEDB33F21A1EFE8006A8FE9 /* Lyra2.c in Sources */ = {isa = PBXBuildFile; fileRef = 5AEDB33C21A1EFE8006A8FE9 /* Lyra2.c */; };
+		5AEDB34021A1EFE8006A8FE9 /* Lyra2Z.c in Sources */ = {isa = PBXBuildFile; fileRef = 5AEDB33D21A1EFE8006A8FE9 /* Lyra2Z.c */; };
+		5AEDB34221A1F006006A8FE9 /* Lyra2Z.h in Headers */ = {isa = PBXBuildFile; fileRef = 5AEDB34121A1F006006A8FE9 /* Lyra2Z.h */; };
 		7503773D1DF57428005EB8AE /* WalletManager+Auth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7503773C1DF57428005EB8AE /* WalletManager+Auth.swift */; };
 		751734B91DAC941E00193C87 /* sec-sub-1.c in Sources */ = {isa = PBXBuildFile; fileRef = 755CD8BE1DAA16820075898E /* sec-sub-1.c */; };
 		752438751DAAC50800844BEC /* alloc.c in Sources */ = {isa = PBXBuildFile; fileRef = 755CD6761DAA0E400075898E /* alloc.c */; };
@@ -697,6 +701,12 @@
 		22C431331DF89DFE0017CAEA /* BRCoderTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRCoderTests.swift; sourceTree = "<group>"; };
 		22C431351DF8A6DF0017CAEA /* BRAPIClientTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRAPIClientTests.swift; sourceTree = "<group>"; };
 		22E773031EE7813000397E0E /* Bonjour.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bonjour.swift; sourceTree = "<group>"; };
+		5AEDB33921A1EFE6006A8FE9 /* Sponge.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Sponge.c; sourceTree = "<group>"; };
+		5AEDB33A21A1EFE7006A8FE9 /* Sponge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sponge.h; sourceTree = "<group>"; };
+		5AEDB33B21A1EFE7006A8FE9 /* Lyra2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Lyra2.h; sourceTree = "<group>"; };
+		5AEDB33C21A1EFE8006A8FE9 /* Lyra2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Lyra2.c; sourceTree = "<group>"; };
+		5AEDB33D21A1EFE8006A8FE9 /* Lyra2Z.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Lyra2Z.c; sourceTree = "<group>"; };
+		5AEDB34121A1F006006A8FE9 /* Lyra2Z.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Lyra2Z.h; sourceTree = "<group>"; };
 		7503773C1DF57428005EB8AE /* WalletManager+Auth.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "WalletManager+Auth.swift"; sourceTree = "<group>"; };
 		7528D2971ECF655500925DBC /* PaymentProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PaymentProtocol.swift; path = src/PaymentProtocol.swift; sourceTree = "<group>"; };
 		752FB03B1DF8BE4B009086FB /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -2906,6 +2916,12 @@
 			children = (
 				8B137E4F20F90D11006DEB3A /* crypto */,
 				75DC77AE1DAA05B500932D9A /* BRAddress.c */,
+				5AEDB33C21A1EFE8006A8FE9 /* Lyra2.c */,
+				5AEDB33B21A1EFE7006A8FE9 /* Lyra2.h */,
+				5AEDB34121A1F006006A8FE9 /* Lyra2Z.h */,
+				5AEDB33D21A1EFE8006A8FE9 /* Lyra2Z.c */,
+				5AEDB33921A1EFE6006A8FE9 /* Sponge.c */,
+				5AEDB33A21A1EFE7006A8FE9 /* Sponge.h */,
 				75DC77AF1DAA05B500932D9A /* BRAddress.h */,
 				75DC77B01DAA05B500932D9A /* BRArray.h */,
 				75DC77B11DAA05B500932D9A /* BRBase58.c */,
@@ -3408,6 +3424,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5AEDB34221A1F006006A8FE9 /* Lyra2Z.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4103,6 +4120,7 @@
 				CE6DCC251E6001E50044257B /* UIControl+Callback.swift in Sources */,
 				CE0822641FCD1BD100EF371D /* HomeScreenViewController.swift in Sources */,
 				223DB2191DF691260076A151 /* BRSocketHelpers.c in Sources */,
+				5AEDB34021A1EFE8006A8FE9 /* Lyra2Z.c in Sources */,
 				CEF3E82D1DE528BF007C0A9E /* AlertView.swift in Sources */,
 				CEF3E82B1DE51612007C0A9E /* GradientCircle.swift in Sources */,
 				7CCD9F6C1FEC1FA300175E64 /* TxAmountCell.swift in Sources */,
@@ -4167,6 +4185,7 @@
 				CE0CD1591DBFBCF5004023DA /* ModalPresenter.swift in Sources */,
 				CEE20C2F1EA3E5820086F724 /* BlinkingView.swift in Sources */,
 				8B137EA020F90EE7006DEB3A /* sph_whirlpool.c in Sources */,
+				5AEDB33E21A1EFE8006A8FE9 /* Sponge.c in Sources */,
 				CEC6AA441DEFCDE900EE5AFD /* ModalViewController.swift in Sources */,
 				CEEC70831E90C07C00EF788E /* Setting.swift in Sources */,
 				CE45C1F91E74B400002C3847 /* ManageWalletViewController.swift in Sources */,
@@ -4225,6 +4244,7 @@
 				CE916E331EDA800E00D641D6 /* UserDefaultsUpdater.swift in Sources */,
 				7CA238142011A97C00A4A59D /* TxDetailViewController.swift in Sources */,
 				CE20C9111DBE5B6F00C8397A /* Rect.swift in Sources */,
+				5AEDB33F21A1EFE8006A8FE9 /* Lyra2.c in Sources */,
 				CE20C9071DBC587200C8397A /* StartViewController.swift in Sources */,
 				8B137EA420F90EF4006DEB3A /* sph_hamsi.c in Sources */,
 				223DB2151DF654940076A151 /* WalletManager.swift in Sources */,
