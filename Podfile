@@ -41,37 +41,37 @@ target 'NotificationServiceExtension' do
 
 end
 
-target 'Gravium' do
+target 'Actinium' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for Gravium
+  # Pods for Actinium
 
-  target 'GraviumTests' do
+  target 'ActiniumTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
-  target 'GraviumUITests' do
+  target 'ActiniumUITests' do
     inherit! :search_paths
     # Pods for testing
   end
 
 end
 
-target 'Gravium WatchKit App' do
+target 'Actinium WatchKit App' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for Gravium WatchKit App
+  # Pods for Actinium WatchKit App
 
 end
 
-target 'Gravium WatchKit Extension' do
+target 'Actinium WatchKit Extension' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for Gravium WatchKit Extension
+  # Pods for Actinium WatchKit Extension
 
 end
 

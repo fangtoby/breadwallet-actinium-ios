@@ -44,7 +44,7 @@
 #include <arpa/inet.h>
 
 #if BITCOIN_TESTNET
-#define MAGIC_NUMBER 0x544e5652  //GRVT - Reverse from chainparams.cpp
+#define MAGIC_NUMBER 0x544e5652  //ACMT - Reverse from chainparams.cpp
 #else
 #define MAGIC_NUMBER 0xd100b3b4 //RAVN - Reverse from chainparams.cpp
 #endif

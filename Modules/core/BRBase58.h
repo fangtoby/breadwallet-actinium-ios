@@ -1,6 +1,6 @@
 //
 //  BRBase58.h
-//  graviumwallet-core
+//  actiniumwallet-core
 //
 //  Created by Aaron Voisine on 9/15/15.
 //  Copyright (c) 2015 breadwallet LLC

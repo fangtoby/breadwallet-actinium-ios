@@ -94,8 +94,8 @@ function processIcon() {
 
 # Process all app icons and create the corresponding internal icons
 # icons_dir="${SRCROOT}/Images.xcassets/AppIcon.appiconset"
-icons_path="${SRCROOT}/graviumwallet/Icon.xcassets/AppIcon.appiconset"
-icons_dest_path="${SRCROOT}/graviumwallet/Icon.xcassets/AppIcon-Internal.appiconset"
+icons_path="${SRCROOT}/actiniumwallet/Icon.xcassets/AppIcon.appiconset"
+icons_dest_path="${SRCROOT}/actiniumwallet/Icon.xcassets/AppIcon-Internal.appiconset"
 icons_set=`basename "${icons_path}"`
 tmp_path="${TEMP_DIR}/IconVersioning"
 

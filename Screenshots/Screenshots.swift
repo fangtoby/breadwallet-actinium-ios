@@ -3,7 +3,7 @@
 //  Screenshots
 //
 //  Created by Adrian Corscadden on 2017-07-02.
-//  Copyright © 2018 Graviumwallet Team. All rights reserved.
+//  Copyright © 2018 Actiniumwallet Team. All rights reserved.
 //
 
 import XCTest
