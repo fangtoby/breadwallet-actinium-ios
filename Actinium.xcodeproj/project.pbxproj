@@ -4982,7 +4982,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = "actiniumwallet WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5000,7 +5000,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = "actiniumwallet WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5019,7 +5019,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				ENABLE_BITCODE = YES;
 				IBSC_MODULE = actiniumwallet_WatchKit_Extension;
 				INFOPLIST_FILE = "actiniumwallet WatchKit App/Info.plist";
@@ -5037,7 +5037,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				ENABLE_BITCODE = YES;
 				IBSC_MODULE = actiniumwallet_WatchKit_Extension;
 				INFOPLIST_FILE = "actiniumwallet WatchKit App/Info.plist";
@@ -5059,7 +5059,7 @@
 				CODE_SIGN_ENTITLEMENTS = actiniumwallet/actiniumwallet.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/**";
 				INFOPLIST_FILE = actiniumwallet/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -5083,7 +5083,7 @@
 				CODE_SIGN_ENTITLEMENTS = actiniumwallet/actiniumwallet.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/**";
 				INFOPLIST_FILE = actiniumwallet/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -5102,7 +5102,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = actiniumwalletTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mediciventures.actiniumwallet.ActiniumTests;
@@ -5117,7 +5117,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = actiniumwalletTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mediciventures.actiniumwallet.ActiniumTests;
@@ -5131,7 +5131,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = actiniumwalletUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mediciventures.actiniumwallet.ActiniumUITests;
@@ -5145,7 +5145,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = actiniumwalletUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mediciventures.actiniumwallet.ActiniumUITests;
@@ -5159,7 +5159,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = MessagesExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5173,7 +5173,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = MessagesExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5187,7 +5187,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = TodayExtension/TodayExtension.entitlements;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = TodayExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5202,7 +5202,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = TodayExtension/TodayExtension.entitlements;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = TodayExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5216,7 +5216,7 @@
 		75A2A8251DA5938500A983D8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = NotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5230,7 +5230,7 @@
 		75A2A8261DA5938500A983D8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = NotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5383,7 +5383,7 @@
 				CODE_SIGN_ENTITLEMENTS = actiniumwallet/actiniumwallet.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/**";
 				INFOPLIST_FILE = actiniumwallet/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -5403,7 +5403,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = actiniumwalletTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mediciventures.actiniumwallet.ActiniumTests;
@@ -5417,7 +5417,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = actiniumwalletUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mediciventures.actiniumwallet.ActiniumUITests;
@@ -5432,7 +5432,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				ENABLE_BITCODE = YES;
 				IBSC_MODULE = actiniumwallet_WatchKit_Extension;
 				INFOPLIST_FILE = "actiniumwallet WatchKit App/Info.plist";
@@ -5449,7 +5449,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = "actiniumwallet WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5467,7 +5467,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = MessagesExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5481,7 +5481,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = TodayExtension/TodayExtension.entitlements;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = TodayExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5495,7 +5495,7 @@
 		CEA7E6901F09AC6A001F8C27 /* Screenshots */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = NotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5694,7 +5694,7 @@
 				CODE_SIGN_ENTITLEMENTS = actiniumwallet/actiniumwallet.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/**";
 				INFOPLIST_FILE = actiniumwallet/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -5714,7 +5714,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = actiniumwalletTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mediciventures.actiniumwallet.ActiniumTests;
@@ -5728,7 +5728,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = actiniumwalletUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mediciventures.actiniumwallet.ActiniumUITests;
@@ -5743,7 +5743,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				ENABLE_BITCODE = YES;
 				IBSC_MODULE = actiniumwallet_WatchKit_Extension;
 				INFOPLIST_FILE = "actiniumwallet WatchKit App/Info.plist";
@@ -5760,7 +5760,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = "actiniumwallet WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5778,7 +5778,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = MessagesExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5792,7 +5792,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = TodayExtension/TodayExtension.entitlements;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = TodayExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -5806,7 +5806,7 @@
 		CEA7E6A31F0AAA84001F8C27 /* Testnet */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = NotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -6002,7 +6002,7 @@
 				CODE_SIGN_ENTITLEMENTS = actiniumwallet/actiniumwallet.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/**";
 				INFOPLIST_FILE = actiniumwallet/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
@@ -6021,7 +6021,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = actiniumwalletTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mediciventures.actiniumwallet.ActiniumTests;
@@ -6035,7 +6035,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = actiniumwalletUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mediciventures.actiniumwallet.ActiniumUITests;
@@ -6050,7 +6050,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				ENABLE_BITCODE = YES;
 				IBSC_MODULE = actiniumwallet_WatchKit_Extension;
 				INFOPLIST_FILE = "actiniumwallet WatchKit App/Info.plist";
@@ -6067,7 +6067,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = "actiniumwallet WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -6085,7 +6085,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = MessagesExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -6099,7 +6099,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = TodayExtension/TodayExtension.entitlements;
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = TodayExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -6113,7 +6113,7 @@
 		CEE0EF5C1EBF8D7F0018DB36 /* Testflight */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = J245WAM2JG;
+				DEVELOPMENT_TEAM = ZMJ5ZS2SKE;
 				INFOPLIST_FILE = NotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
